@@ -14,3 +14,39 @@ A simple and efficient Todo List application built using React, Vite, and Tailwi
 - **Lightweight and Fast**: Built with Vite for optimal performance.
 
 ---
+---
+
+## Tech Stack
+
+### Frontend
+- **React**: For building the user interface.
+- **Vite**: For fast and efficient bundling.
+- **Tailwind CSS**: For modern and responsive styling.
+
+### Storage
+- **Local Storage**: For persisting tasks in the browser.
+
+---
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/todo-list-app.git
+   cd todo-list-app
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the Application**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Access the App**:
+   Open your browser and navigate to the development server URL (e.g., `http://localhost:5173`).
+
+---
